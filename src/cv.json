@@ -56,7 +56,7 @@
     },
     {
       "name": "Orbita 106.7",
-      "position": "Camarografo",
+      "position": "Jefe de produccion",
       "url": "https://www.imer.mx/orbita/",
       "startDate": "2019-01-01",
       "endDate": "2023-05-31",
@@ -182,6 +182,13 @@
     }
   ],
   "projects": [
+    {
+      "name": "My CV",
+      "isActive": false,
+      "description": "Una plantilla de Curriculum Vitae facilmente personalizable",
+      "highlights": ["Astro", "Javascript", "HTML", "CSS"],
+      "url": "https://jncv.netlify.app/"
+    },
     {
       "name": "Guess my number",
       "isActive": false,
