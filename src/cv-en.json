@@ -10,7 +10,7 @@
     "location": {
       "address": "",
       "postalCode": "32695",
-      "city": "Juárez, Chihuahua",
+      "city": "Ciudad Juárez, Chihuahua",
       "countryCode": "MX",
       "region": "México"
     },
@@ -161,12 +161,12 @@
   ],
   "languages": [
     {
-      "language": "Español",
-      "fluency": "Hablante Nativo"
+      "language": "Spanish",
+      "fluency": "Native Speaker"
     },
     {
-      "language": "Ingles",
-      "fluency": "Medio-Avanzado"
+      "language": "English",
+      "fluency": "Intermediate"
     }
   ],
   "interests": [
