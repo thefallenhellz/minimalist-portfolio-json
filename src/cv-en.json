@@ -157,6 +157,16 @@
         "Código Fuente",
         "Git"
       ]
+    },
+    {
+      "name": "Adobe Suite",
+      "level": "Medio",
+      "keywords": ["Desarrolo Web", "Frontend"]
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "Medio",
+      "keywords": ["Desarrolo Web", "Frontend"]
     }
   ],
   "languages": [
