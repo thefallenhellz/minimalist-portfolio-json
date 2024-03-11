@@ -14,5 +14,9 @@
     "astro": "^4.4.5",
     "ninja-keys": "^1.2.2",
     "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5",
+    "prettier-plugin-astro": "^0.13.0"
   }
 }

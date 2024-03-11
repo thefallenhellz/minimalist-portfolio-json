@@ -6,11 +6,11 @@
     "email": "thefallenhellz@outlook.com",
     "phone": "(656)304-3418",
     "url": "https://thefallenhellz.mx",
-    "summary": "Iniciante como Desarrollador Web. Actualmente me dedico al Marketing y estudio Desarrollo de Software Multiplataforma. Vivo en Ciudad Juárez, Chihuahua, México.",
+    "summary": "Iniciando mi carrera como Desarrollador Web, con experiencia en Marketing y actualmente estudiando Desarrollo de Software Multiplataforma.",
     "location": {
       "address": "",
       "postalCode": "32695",
-      "city": "Juárez",
+      "city": "Juárez, Chihuahua",
       "countryCode": "MX",
       "region": "México"
     },
@@ -34,7 +34,7 @@
       "url": "https://meineke.mx",
       "startDate": "2023-07-15",
       "endDate": null,
-      "summary": "Manejo las redes sociales de la empresa. Brindo servicio al cliente para agendar sus citas y realizar llamadas de seguimiento, ademas de capturar datos y elaborar reportes. Tambien ayudo a implementar un sistema de citas y calendario con el ecosistema de Google utilizando Google Appscript",
+      "summary": "Manejo las redes sociales de la empresa. Brindo servicio al cliente para agendar sus citas y realizar llamadas de seguimiento, además de capturar datos y elaborar reportes. También ayudo a implementar un sistema de citas y calendario con el ecosistema de Google utilizando Google App script.",
       "highlights": ["Started the company"]
     },
     {
@@ -42,25 +42,25 @@
       "position": "Asistente Administrativo",
       "startDate": "2020-02-01",
       "endDate": "2023-06-15",
-      "summary": "Mantenia la comunicacion con el cliente, Realizaba facturas mediante ContPaq i, Editaba videos promocionales y manejaba las redes sociales.",
+      "summary": "Mantenía la comunicación con el cliente, Realizaba facturas mediante ContPaq i, editaba videos promocionales y manejaba las redes sociales.",
       "highlights": ["Started the company"]
     },
     {
       "name": "XEJ Canal 50.1",
-      "position": "Camarografo",
+      "position": "Camarógrafo",
       "url": "https://xejtv.com/",
       "startDate": "2019-08-26",
       "endDate": "2023-02-24",
-      "summary": "Manejé camaras, microfonos y switcher para la produccion de noticieros en vivo, ademas de coordinar tiempos para entradas y salidas del aire.",
+      "summary": "Manejé cámaras, micrófonos y switcher para la producción de noticieros en vivo, además de coordinar tiempos para entradas y salidas del aire.",
       "highlights": ["Started the company"]
     },
     {
       "name": "Orbita 106.7",
-      "position": "Jefe de produccion",
+      "position": "Jefe de producción",
       "url": "https://www.imer.mx/orbita/",
       "startDate": "2019-01-01",
       "endDate": "2019-05-31",
-      "summary": "Cree vestiduras para la estacion. Produje el contenido de programas de cultura. Realice la guionizacion, grabacion y edicion de capsulas informativas para la radio publica.",
+      "summary": "Cree vestiduras para la estación. Produje el contenido de programas de cultura. Realice la guionización, grabación y edición de cápsulas informativas para la radio pública.",
       "highlights": ["Started the company"]
     }
   ],
@@ -77,9 +77,9 @@
   ],
   "education": [
     {
-      "institution": "Universidad Tecnologica de Ciudad Juarez",
+      "institution": "Universidad Tecnológica de Ciudad Juárez",
       "url": "https://www.utcj.edu.mx/Paginas/default.aspx",
-      "area": "Ingenieria en Desarrollo y Gestión de Software Multiplataforma",
+      "area": "Ingeniería en Desarrollo y Gestión de Software Multiplataforma",
       "studyType": "Ingenieria",
       "startDate": "2024-01-03",
       "endDate": null,
@@ -87,9 +87,9 @@
       "courses": ["DB1101 - Basic SQL"]
     },
     {
-      "institution": "Universidad Autonoma de Chihuahua",
+      "institution": "Universidad Autónoma de Chihuahua",
       "url": "https://uach.mx/fcpys/",
-      "area": "Licenciatura en Ciencias de la comunicacion, especialidad en medios masivos",
+      "area": "Licenciatura en Ciencias de la comunicación, especialidad en medios masivos",
       "studyType": "Licenciatura",
       "startDate": "2014-08-01",
       "endDate": "2018-01-01",
@@ -185,14 +185,14 @@
     {
       "name": "My CV",
       "isActive": false,
-      "description": "Una plantilla de Curriculum Vitae facilmente personalizable",
+      "description": "Una plantilla de Curriculum Vitae fácilmente personalizable.",
       "highlights": ["Astro", "Javascript", "HTML", "CSS"],
       "url": "https://jncv.netlify.app/"
     },
     {
       "name": "Guess my number",
       "isActive": false,
-      "description": "Juega contra la maquina y trata de adivinar en que numero está pensando.",
+      "description": "Juega contra la máquina y trata de adivinar en que número está pensando.",
       "highlights": ["Javascript", "HTML", "CSS"],
       "url": "https://guess-my-number-tfh.netlify.app/"
     }
