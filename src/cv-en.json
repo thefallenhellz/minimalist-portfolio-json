@@ -3,7 +3,7 @@
     "name": "Jesús Alejandro Núñez González",
     "label": "Trainee Full-Stack Developer",
     "image": "https://avatars.githubusercontent.com/u/101071510?v=4",
-    "email": "thefallenhellz@outlook.com",
+    "email": "alejandronunez@hotmail.com",
     "phone": "(656)304-3418",
     "url": "https://thefallenhellz.mx",
     "summary": "Beginning my career as a Web Developer, with experience in Marketing and currently studying Multiplatform Software Development.",
@@ -30,10 +30,19 @@
   "work": [
     {
       "name": "Meineke",
+      "position": "Tech Support",
+      "url": "https://meineke.mx",
+      "startDate": "2024-07-15",
+      "endDate": null,
+      "summary": "I provide technical support for the SAS system. I solve problems with the technological equipment. I make sure that the devices are connected to each other.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Meineke",
       "position": "Marketing Assistant",
       "url": "https://meineke.mx",
       "startDate": "2023-07-15",
-      "endDate": null,
+      "endDate": "2024-07-15",
       "summary": "I manage the company's social media. I provide customer service to schedule appointments and make follow-up calls, as well as capturing data and preparing reports. I also assist in implementing an appointment and calendar system within the Google ecosystem using Google Apps Script.",
       "highlights": ["Started the company"]
     },
