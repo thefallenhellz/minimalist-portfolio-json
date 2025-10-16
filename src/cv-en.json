@@ -29,6 +29,15 @@
   },
   "work": [
     {
+      "name": "Wiwynn",
+      "position": "Test Technician",
+      "url": "https://wiwynn.com",
+      "startDate": "2025-07-27",
+      "endDate": "",
+      "summary": "I performed debugging and validation of high-performance AI servers for AWS, ensuring all hardware and software components functioned correctly. I used the Linux terminal and diagnostic tools to identify, analyze, and resolve hardware and software issues. I collaborated with engineering teams to troubleshoot server components such as CPUs, GPUs, memory, storage, and network interfaces, maintaining AWS quality standards. I verified system stability and functionality through test scripts and validation procedures before shipment. I ensured that only fully functional and certified servers were delivered to customers, maintaining high reliability and satisfaction.",
+      "highlights": ["Started the company"]
+    },
+    {
       "name": "Meineke",
       "position": "Tech Support",
       "url": "https://meineke.mx",
